@@ -194,8 +194,11 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
     },
+   ukzy: {
+        api: 'https://91jpzyw.com/api.php/provide/vod',
+        name: '精品资源'
+    },
 };
-
 // 定义合并方法
 function extendAPISites(newSites) {
     Object.assign(API_SITES, newSites);
