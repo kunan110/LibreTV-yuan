@@ -194,7 +194,7 @@ const API_SITES = {
         api: 'https://api.ukuapi88.com/api.php/provide/vod',
         name: 'U酷资源'
     },
-   ukzy: {
+    jpzy: {
         api: 'https://91jpzyw.com/api.php/provide/vod',
         name: '精品资源'
     },
